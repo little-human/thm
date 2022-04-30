@@ -1,0 +1,19 @@
+===============================================================
+Gobuster v3.1.0
+by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
+===============================================================
+[+] Url:                     http://10.10.160.87/island/2100/
+[+] Method:                  GET
+[+] Threads:                 400
+[+] Wordlist:                /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+[+] Negative Status codes:   404
+[+] User Agent:              gobuster/3.1.0
+[+] Extensions:              ticket
+[+] Timeout:                 10s
+===============================================================
+2022/04/21 21:38:37 Starting gobuster in directory enumeration mode
+===============================================================
+/green_arrow.ticket   (Status: 200) [Size: 71]
+===============================================================
+2022/04/21 21:42:49 Finished
+===============================================================

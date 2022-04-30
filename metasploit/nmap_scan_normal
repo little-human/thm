@@ -1,0 +1,20 @@
+# Nmap 7.92 scan initiated Sat Mar 19 16:05:06 2022 as: /usr/bin/nmap -sV -oN Desktop/tools/TryHackMe/metasploit/nmap_scan_normal -oX /home/kali/.msf4/local/msf-db-nmap-20220319-6417-1r3e2oj.xml 10.10.19.186
+Nmap scan report for 10.10.19.186
+Host is up (0.19s latency).
+Not shown: 989 closed tcp ports (conn-refused)
+PORT      STATE SERVICE            VERSION
+135/tcp   open  msrpc              Microsoft Windows RPC
+139/tcp   open  netbios-ssn        Microsoft Windows netbios-ssn
+445/tcp   open  microsoft-ds       Microsoft Windows 7 - 10 microsoft-ds (workgroup: WORKGROUP)
+3389/tcp  open  ssl/ms-wbt-server?
+5357/tcp  open  http               Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+8000/tcp  open  http               Icecast streaming media server
+49152/tcp open  msrpc              Microsoft Windows RPC
+49153/tcp open  msrpc              Microsoft Windows RPC
+49154/tcp open  msrpc              Microsoft Windows RPC
+49157/tcp open  msrpc              Microsoft Windows RPC
+49163/tcp open  msrpc              Microsoft Windows RPC
+Service Info: Host: DARK-PC; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Mar 19 16:07:29 2022 -- 1 IP address (1 host up) scanned in 142.29 seconds
