@@ -23,7 +23,7 @@ exiftool thm.jpg
 hexeditor thm.jpg
 ```
 > now change the file header to 
-````
+```
 FF D8 FF E0 00 10 4A 46
 49 46 00 01
 ```
