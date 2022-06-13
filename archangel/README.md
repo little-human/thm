@@ -118,7 +118,7 @@ export PATH=.:$PATH
 
 
 | Qu3$t10n$ | 4n$w3r$ |
-|-----------|---------|| 
+|-----------|---------|
 | Get User 2 flag | thm{h0r1zont4l_pr1v1l3g3_2sc4ll4t10n_us1ng_cr0n} |
 | root flag | thm{p4th_v4r1abl3_expl01tat1ion_f0r_v3rt1c4l_pr1v1l3g3_3sc4ll4t10n} |
 
