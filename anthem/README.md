@@ -73,7 +73,7 @@ After that Login again as `Administrator`
 |-----------|---------|
 | Gain initial access to the machine, what is the contents of user.txt ? | THM{N00T_NO0T} |
 | Can we spot the admin password? | ChangeMeBaby1MoreTime |
-| Escalate your privileges to root, what is the contents of root.txt ? | THM{Y0U_43E_1337} |
+| Escalate your privileges to root, what is the contents of root.txt ? | THM{Y0U_4R3_1337} |
 
 
 
